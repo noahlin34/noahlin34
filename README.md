@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 🍳 **[recipevault.page](https://www.recipevault.page)** (Closed source) - Recipe repository & discovery, grocery list generator
 
 ## Current Projects
-- 🐬 **[echolocate]https://github.com/noahlin34/echolocate)** - A lightweight CLI app for checking if usernames are taken
+- 🐬 **[echolocate](https://github.com/noahlin34/echolocate)** - A lightweight CLI app for checking if usernames are taken
 - ❤️ **[hearthealth](https://github.com/noahlin34/hearthealth)** - Manage your medical life
 - 👾 **[cShooter](https://github.com/noahlin34/cShooter)** - 2D shooter, entirely in C
 - 📈 **[TradeJourna]()** - Coming soon
