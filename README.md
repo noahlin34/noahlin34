@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![OpenJDK](https://img.shields.io/badge/Open%20JDK-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-787CB5?style=flat-square&logo=php&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
 ![CLI](https://img.shields.io/badge/CLI-black?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-black?style=flat-square&logo=openaigym&logoColor=white)
 
@@ -33,6 +35,12 @@ Here are some ideas to get you started:
 
 ## Github Activity
 ![Github Contribution Graph](https://ghchart.rshah.org/noahlin34)
+
+## What I'm doing
+- **Studying** Actively pursuing a BSc. in computer science with a focus on AI, data analysis, and mathematics
+- **Leveraging AI for good** Team member for Canada's largest student AI organization, currently researching AI for diagnosis of Alzheimer's Disease
+- **Rapid Prototyping** Attempting to get as many projects up and running during my limited free time
+- **Working** 3+ years of industry experience across disciplines
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/Noah%20Lin-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/noahlin-)
