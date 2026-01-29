@@ -15,6 +15,7 @@
 
 ## Current Projects
 - 🐬 **[echolocate](https://github.com/noahlin34/echolocate)** - A lightweight CLI app for checking if usernames are taken
+- 🌳 **[arbor](https://github.com/noahlin34/arbor)** - A beautiful way to view git history without leaving your terminal
 - ❤️ **[hearthealth](https://github.com/noahlin34/hearthealth)** - Manage your medical life
 - 👾 **[cShooter](https://github.com/noahlin34/cShooter)** - 2D shooter, entirely in C
 - 📈 **[TradeJournal]()** - Coming soon
