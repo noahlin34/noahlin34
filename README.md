@@ -32,6 +32,7 @@
 - **Working** 3+ years of industry experience across disciplines
 
 ## Connect
+[![Support me](https://img.shields.io/badge/Support%20me-%23FFDD00?style=flat-square&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/noahlin)
 [![LinkedIn](https://img.shields.io/badge/Noah%20Lin-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/noahlin-)
 [![Follow me](https://img.shields.io/badge/Follow%20me-%20black?style=flat-square&logo=github)](https://github.com/noahlin34)
 [![Email me](https://img.shields.io/badge/noah.lin%40queensu.ca-0072C6?style=flat-square&logo=minutemailer&logoColor=white
