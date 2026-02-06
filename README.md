@@ -21,6 +21,7 @@
 - 🧼 **[bleach](https://github.com/noahlin34/bleach)** - Scrub your images of identifying metadata
 - ❤️ **[hearthealth](https://github.com/noahlin34/hearthealth)** - Manage your medical life
 - 👾 **[cShooter](https://github.com/noahlin34/cShooter)** - 2D shooter, entirely in C
+- 🏙️ **[Hive](https://github.com/noahlin34/hive)** - A simtower clone, for the web! 
 - 📈 **[TradeJournal]()** - Coming soon
 
 ## Github Activity
