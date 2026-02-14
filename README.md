@@ -15,6 +15,7 @@
 
 ## Current Projects
 - 🍡 **[mochi](https://github.com/noahlin34/mochi)** - Track your habits, with pets 
+- 🧠 **[BrainDump](https://github.com/noahlin34/braindump)** - NOT another notes app 
 - 🐬 **[echolocate](https://github.com/noahlin34/echolocate)** - A lightweight CLI app for checking if usernames are taken
 - 🌳 **[arbor](https://github.com/noahlin34/arbor)** - A beautiful way to view git history without leaving your terminal
 - 😈 **[roastgit](https://github.com/noahlin34/roastgit)** - Roast your git habits, and maybe learn something
