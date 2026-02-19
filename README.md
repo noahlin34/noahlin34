@@ -14,7 +14,8 @@
 🍳 **[recipevault.page](https://www.recipevault.page)** (Closed source) - Recipe repository & discovery, grocery list generator
 
 ## Current Projects
-- 🍡 **[mochi](https://github.com/noahlin34/mochi)** - Track your habits, with pets 
+- 🍡 **[mochi](https://github.com/noahlin34/mochi)** - Track your habits, with pets
+- 🧾 **[Splyt](https://github.com/noahlin34/splyt)** - Split bills the smart way
 - 🧠 **[BrainDump](https://github.com/noahlin34/braindump)** - NOT another notes app 
 - 🐬 **[echolocate](https://github.com/noahlin34/echolocate)** - A lightweight CLI app for checking if usernames are taken
 - 🌳 **[arbor](https://github.com/noahlin34/arbor)** - A beautiful way to view git history without leaving your terminal
