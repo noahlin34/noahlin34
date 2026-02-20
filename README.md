@@ -17,6 +17,7 @@
 - 🍡 **[mochi](https://github.com/noahlin34/mochi)** - Track your habits, with pets
 - 🧾 **[Splyt](https://github.com/noahlin34/splyt)** - Split bills the smart way
 - 🧠 **[BrainDump](https://github.com/noahlin34/braindump)** - NOT another notes app 
+- 🩺 **[Vivo](https://github.com/noahlin34/vivo)** Simple medical care log for iOS
 - 🐬 **[echolocate](https://github.com/noahlin34/echolocate)** - A lightweight CLI app for checking if usernames are taken
 - 🌳 **[arbor](https://github.com/noahlin34/arbor)** - A beautiful way to view git history without leaving your terminal
 - 😈 **[roastgit](https://github.com/noahlin34/roastgit)** - Roast your git habits, and maybe learn something
