@@ -7,9 +7,9 @@
 ![PHP](https://img.shields.io/badge/PHP-787CB5?style=flat-square&logo=php&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Posthog](https://img.shields.io/badge/PostHog-000000?style=flat-square&logo=posthog&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-%23147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-black?style=flat-square&logo=gnu-bash&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-black?style=flat-square&logo=openaigym&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757?style=flat-square&logo=claude&logoColor=white)
 
 🍳 **[recipevault.page](https://www.recipevault.page)** (Closed source) - Recipe repository & discovery, grocery list generator
 
