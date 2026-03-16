@@ -14,7 +14,7 @@
 🍳 **[recipevault.page](https://www.recipevault.page)** (Closed source) - Recipe repository & discovery, grocery list generator
 
 ## Current Projects
-- 🍡 **[mochi](https://github.com/noahlin34/mochi)** - Track your habits, with pets
+- 🍡 **[mochi](https://noahlin.ca/mochi)** - Track your habits, with pets
 - 🧾 **[Splyt](https://github.com/noahlin34/splyt)** - Split bills the smart way
 - 🧠 **[BrainDump](https://github.com/noahlin34/braindump)** - NOT another notes app 
 - 🩺 **[Vivo](https://github.com/noahlin34/vivo)** Simple medical care log for iOS
