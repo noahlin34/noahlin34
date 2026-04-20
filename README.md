@@ -15,6 +15,8 @@
 
 ## Current Projects
 - 🍡 **[mochi](https://noahlin.ca/mochi)** - Track your habits, with pets
+- ☕️ **[coffee & caffeine tracker](https://noahlin.ca/coffee-track)** - Track caffeine intake and manage your sleep
+- 🔥 **[swipe stack](https://noahlin.ca/swipe-stack)** - Like Tinder, but for ideas
 - 🧾 **[Splyt](https://github.com/noahlin34/splyt)** - Split bills the smart way
 - 🧠 **[BrainDump](https://github.com/noahlin34/braindump)** - NOT another notes app 
 - 🩺 **[Vivo](https://github.com/noahlin34/vivo)** Simple medical care log for iOS
