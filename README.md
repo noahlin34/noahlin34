@@ -15,7 +15,7 @@
 
 ## Current Projects
 - 🍡 **[mochi](https://noahlin.ca/mochi)** - Track your habits, with pets
-- 📝 **[simple md editor]()** - Because I didn't want to pay for Typora.
+- 📝 **[simple md editor](https://simplemd.noahlin.ca)** - Because I didn't want to pay for Typora.
 - ☕️ **[coffee & caffeine tracker](https://noahlin.ca/coffee-track)** - Track caffeine intake and manage your sleep
 - 🔥 **[swipe stack](https://noahlin.ca/swipe-stack)** - Like Tinder, but for ideas
 - 🧾 **[Splyt](https://github.com/noahlin34/splyt)** - Split bills the smart way
