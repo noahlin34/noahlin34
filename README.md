@@ -18,6 +18,7 @@
 - 📝 **[simple md editor](https://simplemd.noahlin.ca)** - Because I didn't want to pay for Typora.
 - ☕️ **[coffee & caffeine tracker](https://noahlin.ca/coffee-track)** - Track caffeine intake and manage your sleep
 - 🤓 **[mobile reader for hacker news]()** - Coming soon on the App Store
+- 🚉 **[go train mobile]()** - a better mobile go train viewer. because i got scared of missing my train. 
 - 🚂 **[go train cli](https://github.com/noahlin34/go-train-cli)** - A programmatic CLI and TUI to catch your GO train! BYOK (Metrolinx API) required
 - 🔥 **[swipe stack](https://noahlin.ca/swipe-stack)** - Like Tinder, but for ideas
 - 🧾 **[Splyt](https://github.com/noahlin34/splyt)** - Split bills the smart way
