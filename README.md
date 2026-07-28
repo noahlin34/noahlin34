@@ -1,6 +1,5 @@
 ## my best work is not on github
 
-## Current Projects
 - 🍳 **[recipevault.page](https://www.recipevault.page)** (Closed source) - Recipe repository & discovery, grocery list generator
 - 🍡 **[mochi](https://noahlin.ca/mochi)** - Track your habits, with pets
 - 📝 **[simple md editor](https://simplemd.noahlin.ca)** - Because I didn't want to pay for Typora.
