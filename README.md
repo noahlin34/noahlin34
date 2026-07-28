@@ -1,19 +1,7 @@
-## Hi, I'm Noah 👋
-
-📍 **Toronto** | 🤖 **AI & ML** | 🚀 **Web, iOS & CLI**
-
-![Swift](https://img.shields.io/badge/Swift-orange?style=flat-square&logo=swift&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-787CB5?style=flat-square&logo=php&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-%23147EFB?style=flat-square&logo=xcode&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-black?style=flat-square&logo=gnu-bash&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757?style=flat-square&logo=claude&logoColor=white)
-
-🍳 **[recipevault.page](https://www.recipevault.page)** (Closed source) - Recipe repository & discovery, grocery list generator
+## my best work is not on github
 
 ## Current Projects
+- 🍳 **[recipevault.page](https://www.recipevault.page)** (Closed source) - Recipe repository & discovery, grocery list generator
 - 🍡 **[mochi](https://noahlin.ca/mochi)** - Track your habits, with pets
 - 📝 **[simple md editor](https://simplemd.noahlin.ca)** - Because I didn't want to pay for Typora.
 - ☕️ **[coffee & caffeine tracker](https://noahlin.ca/coffee-track)** - Track caffeine intake and manage your sleep
@@ -36,12 +24,6 @@
 
 ## Github Activity
 ![Github Contribution Graph](https://ghchart.rshah.org/noahlin34)
-
-## What I'm doing
-- **Studying** Actively pursuing a BSc. in computer science with a focus on AI, data analysis, and mathematics
-- **Leveraging AI for good** Team member for Canada's largest student AI organization, currently researching AI for diagnosis of Alzheimer's Disease
-- **Rapid Prototyping** Attempting to get as many projects up and running during my limited free time
-- **Working** 3+ years of industry experience across disciplines
 
 ## Connect
 [![Support me](https://img.shields.io/badge/Support%20me-%23FFDD00?style=flat-square&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/noahlin)
