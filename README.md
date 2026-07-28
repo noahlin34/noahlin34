@@ -22,13 +22,7 @@
 - 🏙️ **[Hive](https://github.com/noahlin34/hive)** - A simtower clone, for the web! 
 - 📈 **[TradeJournal]()** - Coming soon
 
-## Github Activity
-![Github Contribution Graph](https://ghchart.rshah.org/noahlin34)
-
-## Connect
-[![Support me](https://img.shields.io/badge/Support%20me-%23FFDD00?style=flat-square&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/noahlin)
 [![LinkedIn](https://img.shields.io/badge/Noah%20Lin-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/noahlin-)
 [![Follow me](https://img.shields.io/badge/Follow%20me-%20black?style=flat-square&logo=github)](https://github.com/noahlin34)
 [![Email me](https://img.shields.io/badge/noah.lin%40queensu.ca-0072C6?style=flat-square&logo=minutemailer&logoColor=white
-)](mailto:noah.lin@queensu.ca)
-[![Email me](https://img.shields.io/badge/nglin34%40gmail.com%20(for%20personal%20inquiries)-%2330B980?style=flat-square&logo=minutemailer&logoColor=white)](mailto:nglin34@gmail.com)
+)](mailto:noah@noahlin.ca)
